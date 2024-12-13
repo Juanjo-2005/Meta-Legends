@@ -8,7 +8,7 @@ export default function CarruselJuegos() {
     {
       id: 1,
       titulo: "Black Myth: Wukong",
-      imagen: "/public/recursos/imagenes/juegos/destacados/1 Slider - black myth wukong.jpg",
+   git   imagen: "/public/recursos/imagenes/juegos/destacados/1 Slider - black myth wukong.jpg",
       descripcion: "Es un juego de acción aventura inspirada en la clásica novela Viaje al Oeste..."
     },
     {
