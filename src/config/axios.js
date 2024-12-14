@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosClient = axios.create({
-  baseURL: 'http://localhost:5000/api'
+  baseURL: 'https://meta-legends.onrender.com/api'
 });
 
 // Interceptor para agregar el token a las peticiones
